@@ -1,1 +1,2 @@
-# 3tsuru
+# README
+This repository is test repository.
